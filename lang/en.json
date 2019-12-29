@@ -1,5 +1,5 @@
 {
-    "start": "Welcome to Crack-BB PM bot!\nYour messages will be forwarded to the Admin, so stay tuned!\n/togglenotification command can toggle message sending notification status, off by default.",
+    "start": "Welcome to Anand PM bot!\nYour messages will be forwarded to the Admin, so stay tuned!\n/togglenotification command can toggle message sending notification status, off by default.",
     "set_admin_successful": "You have been set as the admin successfully.",
     "set_admin_failed": "You have no power here! xD",
     "togglenotification_on": "Enabled message sending notification. The bot will give a feedback when it receives your message.",
